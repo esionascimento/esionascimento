@@ -24,9 +24,6 @@ me chamo **Esio Rodrigues**, sou de Porto Velho-RO, Brasil, estou me capacitando
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esionascimento&layout=compact&theme=graywhite&title_color=268bd2" alt="Esio Nascimento" />
-</p>
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=esionascimento&show_icons=true&theme=radical" alt="Esio" />
 </p>
 
