@@ -14,7 +14,7 @@ me chamo **Esio Rodrigues**, sou de Porto Velho-RO, Brasil, estou me capacitando
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
 - 🌱 Estou aprendendo como integrar meus **Testes automatizados** com meus projetos de **front-end**;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 📝 Veja meu <a href="https://gitconnected.com/esionascimento/resume" target="_blank">Curriculum Vitae</a> para mais informações.
+- 📝 Veja meu <a href="https://esionascimento.github.io/cv.html" target="_blank">Curriculum Vitae</a> para mais informações.
 
 
 **Linguagens e ferramentas:**
