@@ -9,13 +9,12 @@ me chamo **Esio Rodrigues**, sou de Porto Velho-RO, Brasil, estou me capacitando
 **Meus interesses pessoais:**
 <br/>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="200px" />
-
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
 - 🌱 Estou aprendendo como integrar meus **Testes automatizados** com meus projetos de **front-end**;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 📝 Veja meu <a href="https://esionascimento.github.io/cv.html" target="_blank">Curriculum Vitae</a> para mais informações.
 
+![](https://github.com/esionascimento/esionascimento/blob/output/github-contribution-grid-snake.svg)
 
 **Linguagens e ferramentas:**
 
