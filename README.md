@@ -4,7 +4,7 @@ me chamo **Esio Rodrigues**, sou de Porto Velho-RO, Brasil, estou me capacitando
 
 [![Gmail Badge](https://img.shields.io/badge/-esio.rsn1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esio.rsn1@gmail.com)](mailto:esio.rsn1@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Esio%20Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esionascimento/)](https://www.linkedin.com/in/esionascimento/)
-<p> 🚀 Estudante em Desenvolvimento Web <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a></p>
+<p> 🚀 Estudei Desenvolvimento Web na <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a></p>
   
 **Meus interesses pessoais:**
 <br/>
